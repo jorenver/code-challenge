@@ -8,6 +8,7 @@
 Run standard validation, Unit Test, and Integration Test.
 
 ```console
+:~$ cd code-challenge-api
 :~$ npm test
 ```
 
@@ -17,6 +18,7 @@ Run standard validation, Unit Test, and Integration Test.
 ## Run
 Command to start API-REST.
 ```console
+:~$ cd code-challenge-api
 :~$ npm start
 ```
 
@@ -33,5 +35,6 @@ GET /api-docs
 ## Run
 
 ```console
+:~$ cd code-challenge-front
 :~$ npm start
 ```
